@@ -1,0 +1,362 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 754,
+      "max": [
+        0.11576905101537704,
+        -2.7982945442199707,
+        1.2024935483932495
+      ],
+      "min": [
+        -0.11997106671333313,
+        -3.208043336868286,
+        0.9999839663505554
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9048,
+      "componentType": 5126,
+      "count": 754,
+      "max": [
+        0.999960720539093,
+        0.9992161393165588,
+        0.9999934434890747
+      ],
+      "min": [
+        -0.999960720539093,
+        -0.9965312480926514,
+        -0.9999948740005493
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 754,
+      "max": [
+        0.7808712720870972,
+        0.9363726377487183
+      ],
+      "min": [
+        0.6146031618118286,
+        0.6456505060195923
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4032,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18096,
+      "componentType": 5126,
+      "count": 1674,
+      "max": [
+        0.9545812010765076,
+        -2.5292232036590576,
+        1.2514652013778687
+      ],
+      "min": [
+        -0.9587831497192383,
+        -3.524611711502075,
+        1.0354865789413452
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 38184,
+      "componentType": 5126,
+      "count": 1674,
+      "max": [
+        0.9722350239753723,
+        0.9973943829536438,
+        0.9999799728393555
+      ],
+      "min": [
+        -0.972236692905426,
+        -0.9978871941566467,
+        -0.9999974966049194
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6032,
+      "componentType": 5126,
+      "count": 1674,
+      "max": [
+        0.9772113561630249,
+        0.6697505712509155
+      ],
+      "min": [
+        0.3337763249874115,
+        0.022107422351837158
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16128,
+      "componentType": 5125,
+      "count": 9408,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ostrich (https://sketchfab.com/gohean33)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bow-tie-1dbf0822882e4f50a6c7bb475398a98a",
+      "title": "bow tie"
+    },
+    "generator": "Sketchfab-15.49.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 53760,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19424,
+      "byteOffset": 53760,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58272,
+      "byteOffset": 73184,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 131456,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0.2341594282864719,
+          "clearcoatRoughnessFactor": 0.3012072516703146
+        }
+      },
+      "name": "Bow_tie_A_rig_may_r0blacknecktie_shd_velvet_v1_Velvet",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.38564704059210775,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_1_Bow_tie_A_rig_may_r0:blacknecktie_shd_velvet_v1_Velvet_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_2_Bow_tie_A_rig_may_r0:blacknecktie_shd_velvet_v1_Velvet_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "1b3f08b8b09f40638f9e8a8858313b86.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_A"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "matrix": [
+        0.9461902976036072,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9460155148688311,
+        0.01818584357854014,
+        0.0,
+        0.0,
+        -0.01818584357854014,
+        0.9460155148688311,
+        0.0,
+        -4.336808689942018e-19,
+        6.989933013916016,
+        1.1389448642730713,
+        1.0
+      ],
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_A_M"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -3.469446951953614e-18,
+        0.0,
+        0.0,
+        3.469446951953614e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_1"
+    },
+    {
+      "mesh": 0,
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_1_Bow_tie_A_rig_may_r0:blacknecktie_shd_velvet_v1_Velvet_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -3.469446951953614e-18,
+        0.0,
+        0.0,
+        3.469446951953614e-18,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Bow_tie_A_rig_may_r0:Bow_tie_2_Bow_tie_A_rig_may_r0:blacknecktie_shd_velvet_v1_Velvet_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
